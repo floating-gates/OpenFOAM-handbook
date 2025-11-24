@@ -100,7 +100,7 @@ From there you can split the mesh for executing a multi region solver. For examp
 </script>
 <script>
 $(function(){
-  $("#footer").load("../../footers/footer_second_level_depth.html");
+  $("#footer").load("../../footers/footer.html");
 });
 </script>
 <body>

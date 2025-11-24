@@ -11,7 +11,7 @@ The system directory contains all the setting relative to the case.
 </script>
 <script>
 $(function(){
-  $("#footer").load("../../footers/footer_second_level_depth.html");
+  $("#footer").load("../../footers/footer.html");
 });
 </script>
 <body>

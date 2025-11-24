@@ -15,7 +15,7 @@ nu is the kinematic viscositym, follows the value of the air at given temperatur
 </script>
 <script>
 $(function(){
-  $("#footer").load("../../footers/footer_second_level_depth.html");
+  $("#footer").load("../../footers/footer.html");
 });
 </script>
 <body>

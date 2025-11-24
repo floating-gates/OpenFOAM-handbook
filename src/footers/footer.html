@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <footer class="footer-distributed">
+      <div class="footer-right">
+        <a class="glow-on-hover" href="https://github.com/floating-gates/GNU-Linux-handbook">Contribute</a>
+        <a class="glow-on-hover" href="https://www.floating-gates.com/services">Services</a>
+        <a class="glow-on-hover" href="https://www.floating-gates.com/mission">About us</a>
+      </div>
+
+      <div class="footer-left">
+        <a href="https://floating-gates.com">
+          <img
+            class="logo_image"
+            src="https://floating-gates-pub.nbg1.your-objectstorage.com/logo_white_writing.webp"
+            alt="Floating Gates"
+          />
+        </a>
+      </div>
+    </footer>
+
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,500,300,700');
+
+      * {
+        font-family: 'Titillium Web';
+      }
+
+      .footer-distributed {
+        display: flex;
+        margin-top: 70px;
+        background-color: #223843;
+        justify-content: space-between;
+        align-items: center;
+        padding: 6%;
+        border-radius: 20px;
+      }
+
+      .footer-left img.logo_image {
+        height: 45px;
+        width: auto;
+      }
+
+      .footer-right {
+        display: grid;
+        gap: 14px;
+        align-items: center;
+      }
+
+      .glow-on-hover {
+        padding: 10px 20px;
+        background: #d8d3d8;
+        text-align: center;
+        border-radius: 10px;
+        transition: 0.8s;
+        font-size: 16px;
+        font-weight: 300;
+      }
+
+      .glow-on-hover:hover {
+        box-shadow: 0 0 10px #d8b4a0, 0 0 10px #d8d3d8, 0 0 15px #eff1f3;
+        background-color: #d8d3d8;
+      }
+
+      .glow-on-hover,
+      .glow-on-hover:link,
+      .glow-on-hover:visited,
+      .glow-on-hover:active,
+      .glow-on-hover:hover {
+        color: #223843 !important;
+        text-decoration: none !important;
+      }
+    </style>
+  </body>
+</html>

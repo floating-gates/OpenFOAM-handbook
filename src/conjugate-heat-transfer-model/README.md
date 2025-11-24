@@ -304,7 +304,7 @@ createBaffles -region PCB  -overwrite >  ./log/createBaffles  2>&1 && echo "crea
 </script>
 <script>
 $(function(){
-  $("#footer").load("../footers/footer_first_level_depth.html");
+  $("#footer").load("../footers/footer.html");
 });
 </script>
 <body>

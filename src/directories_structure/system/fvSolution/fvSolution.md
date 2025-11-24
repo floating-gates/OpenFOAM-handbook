@@ -309,7 +309,7 @@ omega 0.9;
 </script>
 <script>
 $(function(){
-  $("#footer").load("../../../footers/footer_third_level_depth.html");
+  $("#footer").load("../../../footers/footer.html");
 });
 </script>
 <body>

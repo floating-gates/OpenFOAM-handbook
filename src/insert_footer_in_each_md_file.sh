@@ -26,7 +26,7 @@ for file in */*.md
 </script>
 <script>
 $(function(){
-  $("#footer").load("../footers/footer_first_level_depth.html");
+  $("#footer").load("../footers/footer.html");
 });
 </script>
 <body>
@@ -50,7 +50,7 @@ for file in */*/*.md
 </script>
 <script>
 $(function(){
-  $("#footer").load("../../footers/footer_second_level_depth.html");
+  $("#footer").load("../../footers/footer.html");
 });
 </script>
 <body>
@@ -74,7 +74,7 @@ for file in */*/*/*.md
 </script>
 <script>
 $(function(){
-  $("#footer").load("../../../footers/footer_second_level_depth.html");
+  $("#footer").load("../../../footers/footer.html");
 });
 </script>
 <body>

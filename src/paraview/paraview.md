@@ -102,7 +102,7 @@ cmake -GNinja -DVTK\_OPENGL\_HAS\_OSMESA=ON -DVTK\_USE\_X=OFF -DPARAVIEW\_USE\_Q
 </script>
 <script>
 $(function(){
-  $("#footer").load("../footers/footer_first_level_depth.html");
+  $("#footer").load("../footers/footer.html");
 });
 </script>
 <body>

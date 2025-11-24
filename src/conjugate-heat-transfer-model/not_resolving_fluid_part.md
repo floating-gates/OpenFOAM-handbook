@@ -25,7 +25,7 @@ The fluid flow dynamic field (velocity and pressure) is instancaited by the firs
 </script>
 <script>
 $(function(){
-  $("#footer").load("../footers/footer_first_level_depth.html");
+  $("#footer").load("../footers/footer.html");
 });
 </script>
 <body>

@@ -29,7 +29,7 @@ RAS
 </script>
 <script>
 $(function(){
-  $("#footer").load("../../footers/footer_second_level_depth.html");
+  $("#footer").load("../../footers/footer.html");
 });
 </script>
 <body>

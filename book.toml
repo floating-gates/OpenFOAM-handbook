@@ -1,14 +1,13 @@
 [book]
 authors = ["mSamiolo"]
 language = "en"
-multilingual = false
 src = "src"
 title = "OpenFoam® Handbook"
 
 [output.html]
 mathjax-support = true
-git-repository-url = "https://github.com/Adige-Calculations/OpenFOAM-handbook"
-edit-url-template = "https://github.com/Adige-Calculations/OpenFOAM-handbook/tree/main/{path}"
+git-repository-url = "https://github.com/floating-gates/OpenFOAM-handbook"
+edit-url-template = "https://github.com/floating-gates/OpenFOAM-handbook/tree/main/{path}"
 
 [output.html.playground]
 editable = true

@@ -33,7 +33,7 @@ sudo apt-get install libc6-i386 lib32stdc++6 lib32gcc1 lib32ncurses5 lib32z1
 </script>
 <script>
 $(function(){
-  $("#footer").load("../footers/footer_first_level_depth.html");
+  $("#footer").load("../footers/footer.html");
 });
 </script>
 <body>

@@ -110,7 +110,7 @@ once it is know the pressure of the outlet you can subract it and obtain the del
 </script>
 <script>
 $(function(){
-  $("#footer").load("../footers/footer_first_level_depth.html");
+  $("#footer").load("../footers/footer.html");
 });
 </script>
 <body>
